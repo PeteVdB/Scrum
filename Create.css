@@ -1,0 +1,18 @@
+#wrapper{
+/*kader*/
+	border: 2px solid black;
+	border-radius: 25px;
+}
+
+#main{
+	margin: 10px;
+}
+
+.test{
+	display: inline;
+	margin-right: 10px;
+}
+
+textarea{
+	resize:none;
+}
